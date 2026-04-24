@@ -1,6 +1,6 @@
 {
-  "name": "Climbing Log",
-  "short_name": "Climbing",
+  "name": "Climbing Tracker",
+  "short_name": "Climbing Tracker",
   "description": "Track bouldering and rope climbs.",
   "start_url": "/",
   "display": "standalone",
